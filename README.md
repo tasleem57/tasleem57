@@ -1,5 +1,5 @@
 <h1 align="center">Hi.., I'm TASLEEM BANU S</h1>
-<h3 align="center">Tech Enthusiast || Programmer ||Sports</h3>
+<h3 align="center">Tech Enthusiast || Programmer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasleem57&label=Profile%20views&color=0e75b6&style=flat" alt="tasleem57" /> </p>
 
