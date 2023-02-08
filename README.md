@@ -19,7 +19,7 @@
 [![website](./img/instagram-dark.svg)](#gh-dark-mode-only)
 
 
-###Coding Profiles
+<h3 align="left">Coding Profiles </h3>
 <p align="left">
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/tasleem57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tasleem57" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/tasleem57/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tasleem57/" height="30" width="40" /></a>
@@ -42,7 +42,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasleem57&" alt="tasleem57" /></p>
 
-###Holopin board
-![](https://komarev.com/ghpvc/?username=theonlyanson&color=brightgreen&styl=plastic)
+### Holopin board
 
 [![@tasleem57's Holopin board](https://holopin.io/api/user/board?user=tasleem57)](https://www.holopin.io/@tasleem57#)
