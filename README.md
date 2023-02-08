@@ -1,9 +1,6 @@
 <h1 align="center">Hi.., I'm TASLEEM BANU S</h1>
 <h3 align="center">Tech Enthusiast || Programmer </h3>
 
-![](https://komarev.com/ghpvc/?username=theonlyanson&color=brightgreen&styl=plastic)
-
-[![@tasleem57's Holopin board](https://holopin.io/api/user/board?user=tasleem57)](https://www.holopin.io/@tasleem57#)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasleem57&label=Profile%20views&color=0e75b6&style=flat" alt="tasleem57" /> </p>
 
@@ -22,7 +19,7 @@
 [![website](./img/instagram-dark.svg)](#gh-dark-mode-only)
 
 
-<h3 align="left">Coding Profiles:</h3>
+###Coding Profiles
 <p align="left">
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/tasleem57" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tasleem57" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/tasleem57/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tasleem57/" height="30" width="40" /></a>
@@ -44,3 +41,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tasleem57&show_icons=true&locale=en" alt="tasleem57" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tasleem57&" alt="tasleem57" /></p>
+
+###Holopin board
+![](https://komarev.com/ghpvc/?username=theonlyanson&color=brightgreen&styl=plastic)
+
+[![@tasleem57's Holopin board](https://holopin.io/api/user/board?user=tasleem57)](https://www.holopin.io/@tasleem57#)
