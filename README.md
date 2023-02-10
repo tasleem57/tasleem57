@@ -5,10 +5,10 @@
 <h3 align="center">Tech Enthusiast || Programmer </h3>
 
 
-### My Personal Webpage -->[Click to View][Link2] 
+### My Personal Webpage -->[Click to View][Link2]             ### Click To View My All Projects --> [Link][Link1] 
 [Link2]:https://tasleem57.github.io/Personal-protfolio///
 
-### Click To View My All Projects --> [Link][Link1] 
+
 [Link1]: https://tasleem57.github.io/Projects--List///
 
 
