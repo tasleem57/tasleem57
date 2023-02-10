@@ -5,8 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasleem57&label=Profile%20views&color=0e75b6&style=flat" alt="tasleem57" /> </p>
 
-<h2 align="center">Click To View My All Projects -- [Link][Link1]
-[Link1]: https://tasleem57.github.io/Projects--List// </h2>
+### Click To View My All Projects -- [Link][Link1] 
+[Link1]: https://tasleem57.github.io/Projects--List///
 
 - I’m currently learning **SQL,JAVA ,OOPS,DSA**
 
