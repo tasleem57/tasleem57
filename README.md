@@ -5,14 +5,13 @@
 <h3 align="center">Tech Enthusiast || Programmer </h3>
 
 
-### My Personal Webpage -->[Click to View][Link2]             ### Click To View My All Projects --> [Link][Link1] 
+### My Personal Webpage -->[Click to View][Link2]             
 [Link2]:https://tasleem57.github.io/Personal-protfolio///
 
-
+### Click To View My All Projects --> [Link][Link1]
 [Link1]: https://tasleem57.github.io/Projects--List///
 
-
-### Connect with me:
+## Connect with me:
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tasleem-banu-s-924858236/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tasleem-banu-s-924858236/#gh-dark-mode-only)
 &nbsp;&nbsp;
