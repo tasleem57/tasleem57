@@ -11,7 +11,7 @@
 ### Click To View My All Projects --> [Link][Link1]
 [Link1]: https://tasleem57.github.io/Projects--List///
 
-## Connect with me:
+### Connect with me :
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tasleem-banu-s-924858236/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tasleem-banu-s-924858236/#gh-dark-mode-only)
 &nbsp;&nbsp;
