@@ -47,3 +47,8 @@
 ### Holopin board
 
 [![@tasleem57's Holopin board](https://holopin.io/api/user/board?user=tasleem57)](https://www.holopin.io/@tasleem57#)
+
+### Github Tropies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tasleem57" alt="tasleem57" /></a> </p>
+
