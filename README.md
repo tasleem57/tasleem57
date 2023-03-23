@@ -1,4 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasleem57&label=Profile%20views&color=0e75b6&style=flat" alt="tasleem57" /> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/tasleem_57?label=Follow)](https://twitter.com/intent/follow?screen_name=tasleem57)
+![GitHub followers](https://img.shields.io/github/followers/tasleem57?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=tasleem57&color=brightgreen">  
 
 ![Header Image- Tasleem Banu S](frent.png)
 
