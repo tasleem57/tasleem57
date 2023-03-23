@@ -1,5 +1,5 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=tasleem57&color=brightgreen"> 
-![Twitter Follow](https://img.shields.io/twitter/follow/tasleem_57?label=Follow)](https://twitter.com/intent/follow?screen_name=tasleem57)
+
 
  
 
