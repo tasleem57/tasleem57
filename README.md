@@ -1,6 +1,6 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=tasleem57&color=brightgreen"> 
-[![Twitter Follow](https://img.shields.io/twitter/follow/tasleem_57?label=Follow)](https://twitter.com/intent/follow?screen_name=tasleem57)
-![GitHub followers](https://img.shields.io/github/followers/tasleem57?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/tasleem_57?label=Follow)](https://twitter.com/intent/follow?screen_name=tasleem57)
+
  
 
 ![Header Image- Tasleem Banu S](frent.png)
