@@ -9,7 +9,7 @@
 
 ### My Website-->[Click to View][Link1]
 [Link1]:https://tscompany57.github.io/Tasleem//
-
+<img src="https://media.tenor.com/JUmuqyOoAsQAAAAi/ruanzikaad-fly.gif" alt="Ruanzikaad Fly" align="center" height="120" width="120" />
 ### Connect with me :
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tasleem-banu-s-924858236/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tasleem-banu-s-924858236/#gh-dark-mode-only)
