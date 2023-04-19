@@ -6,7 +6,7 @@
 ![Header Image- Tasleem Banu S](frent.png)
 
 <h3 align="center">Tech Enthusiast || Programmer </h3>
-<img src="https://media.tenor.com/JUmuqyOoAsQAAAAi/ruanzikaad-fly.gif" alt="Ruanzikaad Fly" align="center" height="120" width="120" />
+<img align="center" src="https://media.tenor.com/JUmuqyOoAsQAAAAi/ruanzikaad-fly.gif" alt="Ruanzikaad Fly" align="center" height="120" width="120" />
 
 ### My Website-->[Click to View][Link1]
 [Link1]:https://tscompany57.github.io/Tasleem//
