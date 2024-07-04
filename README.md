@@ -2,7 +2,6 @@
 
 
 
-
 ![Header Image- Tasleem Banu S](frent.png)
 
 <h3 align="center">Tech Enthusiast || Programmer </h3>
